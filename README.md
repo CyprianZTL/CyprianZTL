@@ -6,4 +6,4 @@
 
 ✨ But when I do, it's code magic. ✨
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprianztl&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprianztl&layout=compact&bg_color=fffefe)
