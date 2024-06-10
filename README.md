@@ -6,5 +6,4 @@
 
 ✨ But when I do, it's code magic. ✨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyprianztl)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprianztl&layout=compact)
